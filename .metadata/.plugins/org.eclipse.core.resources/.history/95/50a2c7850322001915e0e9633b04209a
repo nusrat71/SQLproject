@@ -1,0 +1,5 @@
+package db_connection.naztech.io;
+
+public class DBConnection {
+
+}
